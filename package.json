@@ -1,0 +1,14 @@
+{
+  "name": "1fe00d9225a02f9e",
+  "main": "1fe00d9225a02f9e@20659.js",
+  "version": "20659.0.0",
+  "homepage": "https://observablehq.com/d/1fe00d9225a02f9e",
+  "author": {
+    "name": "Jiawei Xu（许家伟）'s Workspace",
+    "url": "https://observablehq.com/@jiawei-xu-xu-jia-wei-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
